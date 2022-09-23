@@ -3,4 +3,4 @@ echo "current dir: ${CURRENT_DIR}"
 cd $CURRENT_DIR
 git add .
 git commit -am "save"
-git push origin main --force
+git push origin master --force
